@@ -88,4 +88,8 @@ footer {
     text-align: center;
     font-size: 80%
 }
-
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-top: auto;
+}
