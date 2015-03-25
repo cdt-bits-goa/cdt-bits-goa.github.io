@@ -1,31 +1,30 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
-/*	background: url('../img/hands.jpg') no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-	background-color: #002147;
+	background-color: #ffffff;
     color: #333;
   	font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
   	font-size: 14px;
 }
 
-.jumbotron {
+/*.jumbotron {
     background-color: rgba(0,0,0,0.2);
     color: #fff;
-}
+}*/
 
-.jumbotron p {
+/*.jumbotron p {
     color: #ccc;
-}
+}*/
 
 .cdt-block {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-   background-color: rgba(255,255,255,0.8);
+   background-color: #F2BABA;
    margin: 30px 10px;
    padding: 10px 20px;
    height: 450px;
@@ -33,7 +32,8 @@ body {
 
 }
 
-.preamble {
+
+/*.preamble {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
@@ -42,9 +42,9 @@ body {
    margin-top: 30px;
    margin-bottom: 30px;   
    width: 100%;
-}
+}*/
 
-#tbl {
+/*#tbl {
     margin-top : 50px;
     font-size: 90%;    
 }
@@ -60,7 +60,7 @@ ul {
 
 .focus {
     font-weight: bold;
-}
+}*/
 
 .cdt-block .housing {
     font-weight: bold;
@@ -79,12 +79,17 @@ ul {
 }
 
 
-thead th {
+/*thead th {
    text-align: center;
 }
-
+*/
 footer {
     color: #CCC;
     text-align: center;
     font-size: 80%
+}
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-top: auto;
 }
