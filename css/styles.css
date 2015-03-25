@@ -12,14 +12,14 @@ body {
   	font-size: 14px;
 }
 
-.jumbotron {
+/*.jumbotron {
     background-color: rgba(0,0,0,0.2);
     color: #fff;
-}
+}*/
 
-.jumbotron p {
+/*.jumbotron p {
     color: #ccc;
-}
+}*/
 
 .cdt-block {
     -webkit-border-radius: 10px;
